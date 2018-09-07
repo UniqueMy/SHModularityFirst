@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SHModularityFirst_Example' do
+  pod 'SHModularityFirst', :path => '../'
+
+  target 'SHModularityFirst_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
