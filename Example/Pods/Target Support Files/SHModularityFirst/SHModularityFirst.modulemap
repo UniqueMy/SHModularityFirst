@@ -1,0 +1,6 @@
+framework module SHModularityFirst {
+  umbrella header "SHModularityFirst-umbrella.h"
+
+  export *
+  module * { export * }
+}

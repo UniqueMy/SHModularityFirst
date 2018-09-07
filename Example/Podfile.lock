@@ -1,0 +1,16 @@
+PODS:
+  - SHModularityFirst (0.1.0)
+
+DEPENDENCIES:
+  - SHModularityFirst (from `../`)
+
+EXTERNAL SOURCES:
+  SHModularityFirst:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SHModularityFirst: 73ed713fb007dcb9190d0af8dd1335753b693194
+
+PODFILE CHECKSUM: c38a109d161b86320bec1627469b094984c662ba
+
+COCOAPODS: 1.5.2
